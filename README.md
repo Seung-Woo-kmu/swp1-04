@@ -1,2 +1,2 @@
-# 20203105 Seungwoo Yoo
+# 20203105    Seungwoo Yoo
 # Kookmin Univ. SW
