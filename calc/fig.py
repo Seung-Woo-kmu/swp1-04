@@ -10,8 +10,8 @@ def application(environ, start_response):
        sum = a + b
        product = a * b
    else:
-       sum = "none"
-       product = "none"
+       sum = "0"
+       product = "0"
    response_body = html + "sum = {}<br>product = {}".format(sum, product)
    start_response('200 OK', [
        ('Content-Type', 'text/html'),
